@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://chanhwa-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chanhwa-lee.github.io" # "academicpages/academicpages.github.io"
-teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "Chanhwa Lee photo Dec2022.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chanhwa Lee"
-  avatar           : "images/Chanhwa Lee photo Dec2022.jpg"
+  avatar           : "Chanhwa Lee photo Dec2022.jpg"
   bio              : "Biostatistics Ph.D. candidate at University of North Carolina at Chapel Hill"
   location         : "Chapel Hill, NC / Seoul, Korea"
   employer         :
