@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#Publications
+# Publications
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -17,4 +17,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-#Preprint
+# Preprint
