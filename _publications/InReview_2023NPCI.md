@@ -1,7 +1,7 @@
 ---
 title: "(In Review) Efficient Nonparametric Estimation of Stochastic Policy Effects with Clustered Interference"
 collection: publications
-type: inreview
+type: preprint
 permalink: /publications/InReview_2023NPCI
 excerpt: 'NPCI paper'
 date: '2023-12-31'
