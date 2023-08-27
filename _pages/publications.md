@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<p> site.url = {{site.url}} </p>
-<p> site.publications = {{site.publications}} </p>
-<p> site.inprep = {{site.inprep}} </p>
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
