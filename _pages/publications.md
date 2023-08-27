@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   <p> Title: {{ post.title }} </p>
   <p> Type: {{ post.type }} </p>
-  {% if post.type == 'publications'}
+  {% if post.type == 'publications' %}
     <p> Type is publications! </p>
     {% include archive-single.html %}
   {% endif %}
@@ -23,7 +23,7 @@ author_profile: true
 # Preprint
 
 {% for post in site.publications reversed %}
-  {% if post.type == 'preprint'}
+  {% if post.type == 'preprint' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -31,7 +31,7 @@ author_profile: true
 # In preparation
 
 {% for post in site.publications reversed %}
-  {% if post.type == 'inprep'}
+  {% if post.type == 'inprep' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
