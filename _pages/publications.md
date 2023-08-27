@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+  <p> Title: {{ post.title }} </p>
+  <p> Type: {{ post.type }} </p>
   {% if post.type == 'publications'}
     {% include archive-single.html %}
   {% endif %}
