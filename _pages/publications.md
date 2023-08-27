@@ -14,3 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+# In preparation
+{% for post in site.inprep reversed %}
+  {% include archive-single.html %}
+{% endfor %}
