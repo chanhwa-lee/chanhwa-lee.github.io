@@ -4,7 +4,7 @@ collection: inprep
 type: inprep
 permalink: /publications/2023PWAS
 excerpt: 'PWAS Paper'
-date: 
+date: '2023-12-31'
 venue: 
 paperurl: 
 citation: 
