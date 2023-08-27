@@ -4,7 +4,7 @@ collection: inprep
 type: inprep
 permalink: /publications/InPrep_2023MOL
 excerpt: 'COVD-19 MOL paper'
-date: 2023-12-31
+date: 
 venue: 
 paperurl: 
 citation: 
