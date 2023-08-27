@@ -16,6 +16,7 @@ author_profile: true
 {% endfor %}
 
 # In preparation
+
 {% for post in site.inprep reversed %}
   {% include archive-single.html %}
 {% endfor %}
