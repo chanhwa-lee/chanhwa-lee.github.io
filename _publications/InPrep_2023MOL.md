@@ -1,6 +1,7 @@
 ---
 title: "(In Prep) The Antiviral Mechanism of Action of Molnupiravir in Humans with COVID‑19"
 collection: inprep
+type: inprep
 permalink: /publications/InPrep_2023MOL
 excerpt: 'COVD-19 MOL paper'
 date: 2023-12-31
