@@ -1,6 +1,7 @@
 ---
 title: "Reservoir‑Style Polymeric Drug Delivery Systems: Empirical and Predictive Models for Implant Design"
 collection: publications
+type: pulications
 permalink: /publication/2022-10-03-DrugDelivery
 excerpt: 'Drug Delivery Paper'
 date: 2022-10-03
