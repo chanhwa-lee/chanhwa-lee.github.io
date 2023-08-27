@@ -13,7 +13,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.type == 'publications' %}
-    {% include archive-single.html %}
+    {% include archive-single-publication.html %}
   {% endif %}
 {% endfor %}
 
