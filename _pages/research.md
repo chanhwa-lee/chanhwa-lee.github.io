@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 
-## Causal Inference under Interference using Efficient Nonparametric Estimation 
+## [Causal Inference under Interference using Efficient Nonparametric Estimation](https://arxiv.org/abs/2212.10959) 
 _[Causal Inference Research Lab (CIRL)](https://causal.unc.edu), UNC Chapel Hill, Jan 2022 ‑ Present_
 * Developed efficient nonparametric estimation of causal network effects under interference based on semiparametric and empirical process theory.
 * Used ensemble of nonparametric and ML models (spline regression, GAM, boosting, Random Forest, neural net) via SuperLearnear in R.
 * Paper: Efficient Nonparametric Estimation of Stochastic Policy Effects with Clustered Interference.
 
-## Drug Release Prediction for Reservoir‑Style Polymeric Drug Delivery Systems 
+## [Drug Release Prediction for Reservoir‑Style Polymeric Drug Delivery Systems](https://www.mdpi.com/1424-8247/15/10/1226)
 _Research Triangle Institute International, Mar 2022 ‑ Sep 2022_
 * Designed and built drug release prediction model and visualized results in R, enabling rational drug implant design without extensive in vitro testing.
 * Publication: Reservoir‑Style Polymeric Drug Delivery Systems: Empirical and Predictive Models for Implant Design.
