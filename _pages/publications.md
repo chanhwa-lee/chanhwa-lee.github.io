@@ -1,5 +1,6 @@
 ---
 layout: archive
+title:
 permalink: /publications/
 author_profile: true
 ---
@@ -15,7 +16,7 @@ _Pharmaceuticals_, 15(10), 1226.
 **Lee, C.**, Zeng, D., & Hudgens, M. G. (2023). 
 [Efficient Nonparametric Estimation of Stochastic Policy Effects with Clustered Interference](https://arxiv.org/abs/2212.10959). 
 arXiv:2212.10959
-(Under review: Journal of the American Statistical Association).
+(Under review: _Journal of the American Statistical Association_).
 
 # In preparation
 
