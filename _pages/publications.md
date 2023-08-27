@@ -15,6 +15,7 @@ author_profile: true
   <p> Title: {{ post.title }} </p>
   <p> Type: {{ post.type }} </p>
   {% if post.type == 'publications'}
+    <p> Type is publications! </p>
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
