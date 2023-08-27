@@ -1,12 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a Ph.D. candidate in Biostatistics at the University of North Carolina at Chapel Hill,
+advised by Prof. [Michael G. Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/) and [Donglin Zeng](https://www.bios.unc.edu/~dzeng/).
+My research interest lies in Causal inference, Network (clustered) data, Precision medicine, Statistical machine learning, and Semiparametric efficiency theory.
+Through years of education at Seoul National University (B.S. in Statistics and Mathematics) and experience at [Causal Inference Research Lab (UNC)](https://causal.unc.edu) and [Center for AIDS Research (UNC)](http://unccfar.org/portfolio/biostatistics/), I became proficient in statistical data analysis, designing and training machine learning and deep learning models using various software including R, SAS and Python, and grant writing.
+I also have experience in statistical genetics, 
+participating in the Korean national project (Bio-synergy) at [Bioinformatics and Biostatistics (BIBS) Lab (Seoul National University)](http://bibs.snu.ac.kr), and working as a research assistant at [Yun Li Statistical Genetics Group (UNC)](https://yunliweb.its.unc.edu).
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
