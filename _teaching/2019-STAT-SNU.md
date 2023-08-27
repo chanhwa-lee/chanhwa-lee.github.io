@@ -8,4 +8,4 @@ date: 2019-01-01
 location: "Seoul, Korea"
 ---
 
-Tutoring undergraduate students on Mathematical Statistics I & II
+* Tutoring undergraduate students on Mathematical Statistics I & II
