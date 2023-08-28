@@ -16,4 +16,4 @@ From years of education at Seoul National University (B.S. in Statistics and Mat
 
 I also have experience in statistical genetics. 
 I participated in the Korean national project (Bio-synergy) at [Bioinformatics and Biostatistics (BIBS) Lab (Seoul National University)](http://bibs.snu.ac.kr),
-and I worked as a graduate research assistant in the [Yun Li Statistical Genetics Group (UNC)](https://yunliweb.its.unc.edu)https://yunliweb.its.unc.edu.
+and I worked as a graduate research assistant in the [Yun Li Statistical Genetics Group (UNC)](https://yunliweb.its.unc.edu).
