@@ -20,6 +20,10 @@ arXiv:2212.10959
 
 ## In preparation
 
+**Lee, C.**, Zeng, D., & Hudgens, M. G. (2023). 
+**Nonparametric Causal Inference on Stochastic Policy Effects accommodating Clustered Interference and Right Censoring**.
+In Prep.
+
 Kilpatrick, K., **Lee, C.**, & Hudgens, M. G. (2023). 
 **G-Formula for Observational Studies with Partial Interference, with Application to Bed Net Use on Malaria**.
 _Statistics in Medicine_. Under revision.
