@@ -14,14 +14,14 @@ author_profile: true
     [[code]](https://github.com/chanhwa-lee/NPCI)
 
 
-- Kilpatrick, K., **Lee, C.**, \& Hudgens, M. G.
+- Kilpatrick, K., **Lee, C.**, & Hudgens, M. G.
     (2024). 
     G-Formula for Observational Studies with Stratified Interference, with Application to Bed Net Use on Malaria.
     _Statistics in Medicine_,
     43(15), 2853-2868. 
     [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.10102)
     
-- Chen, B., **Lee, C.** *, Tapia, A., Reiner, A., Tang, H., Kooperberg, C., Li, Y., \& Raffield, L. 
+- Chen, B., **Lee, C.** *, Tapia, A., Reiner, A., Tang, H., Kooperberg, C., Li, Y., & Raffield, L. 
     (2024).
     Proteome-Wide Association Study Using Cis and Trans Variants and Applied to Blood Cell and Lipid-Related Traits in the Women’s Health Initiative Study.
     _Genetic Epidemiology_,
@@ -30,7 +30,7 @@ author_profile: true
     [[link]](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22578?af=R)
 
 - Li, L., **Lee, C.**,
-    Cruz, D. F., Krovi, S. A., Hudgens, M. G., Cottrell, M. L., \& Johnson, L. M.
+    Cruz, D. F., Krovi, S. A., Hudgens, M. G., Cottrell, M. L., & Johnson, L. M.
     (2022). 
     Reservoir-Style Polymeric Drug Delivery Systems: Empirical and Predictive Models for Implant Design.
     _Pharmaceuticals_, 15(10), 1226.
@@ -38,7 +38,7 @@ author_profile: true
 
 # Preprints
 
-- **Lee, C.**, Zeng, D., \& Hudgens, M. G.
+- **Lee, C.**, Zeng, D., & Hudgens, M. G.
     (2024+). 
     Nonparametric Causal Survival Analysis under Clustered Interference.
     _arXiv_, 2409.13190.
@@ -46,7 +46,7 @@ author_profile: true
     [[preprint]](https://arxiv.org/abs/2409.13190)
     [[code]](https://github.com/chanhwa-lee/NPSACI)
 
-- Shook-Sa, B., Zivich, P., **Lee, C.**, ..., \& Cole, S.
+- Shook-Sa, B., Zivich, P., **Lee, C.**, ..., & Cole, S.
     (2024+). 
     Double Robust Variance Estimation.
     _arXiv_, 2404.16166.
@@ -56,7 +56,7 @@ author_profile: true
 - Sheahan, T. P., 
     Laura J. Stevens, L. J., Lakshmanane, P., Krajewski, T. J., 
     **Lee, C.**, ..., 
-    \& Fischer, W. A.
+    & Fischer, W. A.
     (2024+).
     The Antiviral Mechanism of Action of Molnupiravir in Humans with COVID-19.
     _medrxiv_, 2023.11.21.23298766.
