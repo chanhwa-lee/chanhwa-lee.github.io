@@ -6,101 +6,26 @@ author_profile: true
 ---
 
 
-[Tom Ten Have Award Honorable Mention](https://sci-info.org/tom-ten-have-award) & Travel Award (May 2024)
-American Causal Inference Conference 2024
+- **[Tom Ten Have Award Honorable Mention](https://sci-info.org/tom-ten-have-award) & Travel Award**, American Causal Inference Conference 2024, May 2024
 
+- **Best Poster Award & Early Career Award**, Duke Industry Statistics Symposium 2024, Mar 2024
 
-\textbf{Best Poster Award \& Early Career Award} \hfill Mar 2024 \\
-Duke Industry Statistics Symposium 2024 \vspace{0.2cm}
+- **Travel Award, 2024 Winter Workshop on Causal Inference**, Department of Statistics, University of Florida, Jan 2024
 
-\textbf{Travel Award, 2024 Winter Workshop on Causal Inference} \hfill Jan 2024 \\
-Department of Statistics, University of Florida \vspace{0.2cm}
+- **Travel Award, Extending Inferences to a New Target Population Workshop**, ICERM at Brown University, Nov 2023
 
-\textbf{Travel Award, Extending Inferences to a New Target Population Workshop}  \\
-ICERM at Brown University \hfill Nov 2023 \vspace{0.2cm}
+- **1<sup>st</sup> Prize, Doctoral Comprehensive Written Exam (Theory)**, Department of Biostatistics, UNC Chapel Hill, Aug 2021
 
-\textbf{1$^\text{st}$ Prize, Doctoral Comprehensive Written Exam (Theory)} \hfill Aug 2021 \\ Department of Biostatistics, UNC Chapel Hill \vspace{0.2cm}
+- **Doctoral Study Abroad Program Fellowship ($65K)**, Korea Foundation for Advanced Studies, 2020 ~ 2025
 
-\textbf{Doctoral Study Abroad Program Fellowship (\$65K)} \hfill 2020 -- 2025  \\
-Korea Foundation for Advanced Studies \vspace{0.2cm}
+- **Silver Prize, 38<sup>th</sup> University Student Contest of Mathematics**, Korean Mathematical Society, Spring 2019
 
-\textbf{Silver Prize, 38$^\text{th}$ University Student Contest of Mathematics} \hfill Spring 2019 \\
-Korean Mathematical Society \vspace{0.2cm}
+- **Dean's List**, College of Natural Sciences, Seoul National University, 2014, 2015, 2019
 
-\textbf{Dean's List} \hfill 2014, 2015, 2019 \\
-College of Natural Sciences, Seoul National University \vspace{0.2cm}
+- **Korean Presidential Science Scholarship ($44K)**, Korea Student Aid Foundation, 2014 ~ 2020
 
-\textbf{Korean Presidential Science Scholarship (\$44K)} \hfill 2014 -- 2020 \\
-Korea Student Aid Foundation \vspace{0.2cm}
+- **Bronze Prize, 20<sup>th</sup> Humantech Paper Award**, Samsung Electronics, Feb 2014
 
-\textbf{Bronze Prize, 20$^\text{th}$ Humantech Paper Award} \hfill  Feb 2014 \\
-Samsung Electronics \vspace{0.2cm}
+- **2<sup>nd</sup> Prize, 26<sup>th</sup> Final Korean Mathematical Olympiad**, Korean Mathematical Society, 2013
 
-\textbf{2$^\text{nd}$ Prize, 26$^\text{th}$ Final Korean Mathematical Olympiad} \hfill 2013 \\
-Korean Mathematical Society \vspace{0.2cm}
-
-\textbf{Silver Prize, 26$^\text{th}$ Korean Mathematical Olympiad} \hfill 2012 \\
-Korean Mathematical Society
-
-
-
-
-## Publications
-
-**Lee, C.**, Zeng, D., & Hudgens, M. G. 
-    (2024). 
-    Efficient Nonparametric Estimation of Stochastic Policy Effects with Clustered Interference.
-    _Journal of the American Statistical Association_. 
-    In Press.
-    [[link]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2340789)
-    [[code]](https://github.com/chanhwa-lee/NPCI)
-
-
-  Kilpatrick, K., **Lee, C.**, \& Hudgens, M. G.
-    (2024). 
-    G-Formula for Observational Studies with Stratified Interference, with Application to Bed Net Use on Malaria.
-    _Statistics in Medicine_,
-    43(15), 2853-2868. 
-    [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.10102)
-    
-  Chen, B., **Lee, C.** *, Tapia, A., Reiner, A., Tang, H., Kooperberg, C., Li, Y., \& Raffield, L. 
-    (2024).
-    Proteome-Wide Association Study Using Cis and Trans Variants and Applied to Blood Cell and Lipid-Related Traits in the Women’s Health Initiative Study.
-    _Genetic Epidemiology_,
-    48, 310-323.
-    *Co-first author.
-    [[link]](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22578?af=R)
-
-  Li, L., **Lee, C.**,
-    Cruz, D. F., Krovi, S. A., Hudgens, M. G., Cottrell, M. L., \& Johnson, L. M.
-    (2022). 
-    Reservoir-Style Polymeric Drug Delivery Systems: Empirical and Predictive Models for Implant Design.
-    _Pharmaceuticals_, 15(10), 1226.
-    [[link]](https://www.mdpi.com/1424-8247/15/10/1226)
-
-## Preprints
-
-**Lee, C.**, Zeng, D., \& Hudgens, M. G.
-    (2024+). 
-    Nonparametric Causal Survival Analysis under Clustered Interference.
-    _arXiv_, 2409.13190.
-    Under Review at Journal of the Royal Statistical Society Series B.
-    [[preprint]](https://arxiv.org/abs/2409.13190)
-    [[code]](https://github.com/chanhwa-lee/NPSACI)
-
-Shook-Sa, B., Zivich, P., **Lee, C.**, ..., \& Cole, S.
-    (2024+). 
-    Double Robust Variance Estimation.
-    _arXiv_, 2404.16166.
-    **Under Revision at Biometrics**.
-    [[preprint]](https://arxiv.org/abs/2404.16166)
-
-Sheahan, T. P., 
-    Laura J. Stevens, L. J., Lakshmanane, P., Krajewski, T. J., 
-    **Lee, C.**, ..., 
-    \& Fischer, W. A.
-    (2024+).
-    The Antiviral Mechanism of Action of Molnupiravir in Humans with COVID-19.
-    _medrxiv_, 2023.11.21.23298766.
-    **Under Revision at Nature Communications**.
-    [[preprint]](https://www.medrxiv.org/content/10.1101/2023.11.21.23298766v1)
+- **Silver Prize, 26<sup>th</sup> Korean Mathematical Olympiad**, Korean Mathematical Society, 2012
