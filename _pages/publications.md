@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: Publications
+title: 
 permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+# Publications
 
 **Lee, C.**, Zeng, D., & Hudgens, M. G. 
     (2024). 
@@ -38,7 +38,7 @@ author_profile: true
     _Pharmaceuticals_, 15(10), 1226.
     [[link]](https://www.mdpi.com/1424-8247/15/10/1226)
 
-## Preprints
+# Preprints
 
 **Lee, C.**, Zeng, D., \& Hudgens, M. G.
     (2024+). 
