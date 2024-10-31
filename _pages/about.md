@@ -10,7 +10,7 @@ redirect_from:
 
 Experienced statistician specializing in causal inference, statistical analysis, and machine learning, eager to mathematically elucidate the causality of natural phenomena. 
 
-🔬 Ph.D. candidate in Biostatistics at UNC-Chapel Hill, advised by Profs. [Michael G. Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/) and [Donglin Zeng](https://www.bios.unc.edu/~dzeng/). Focusing on causal inference under network setting using machine learning to develop efficient and robust estimation based on semi-parametric efficiency theory. 
+🔬 Ph.D. candidate in Biostatistics at UNC-Chapel Hill, advised by Profs. [Michael G. Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/) and [Donglin Zeng](https://www.bios.unc.edu/~dzeng/). Focusing on causal inference under network setting using machine learning to develop efficient and robust estimation based on semi-parametric efficiency theory. See my [research statement](/files/CV_ChanhwaLee.pdf).
 
 💻 Proficient in data preprocessing, model training, evaluation, and inference using various statistical, machine learning & deep learning algorithms, with expertise in programming languages (R, Python, SQL, SAS, Bash). 
 
